@@ -42,7 +42,7 @@ AI-Autonomous-Navigation-System/
 └── README.md
 ```
 
-▶️ How to Run
+▶️ How to Run  
 Run the following commands inside the project folder:
 
 pip install -r requirements.txt  
