@@ -21,21 +21,31 @@ NumPy
 Matplotlib
 OpenCV
 
-🏗 Project Structure
+## 🏗 Project Structure
+
+```
 AI-Autonomous-Navigation-System/
 │
 ├── src/
+│   ├── environment.py
+│   ├── path_planning.py
+│   └── visualization.py
+│
 ├── outputs/
 │   └── images/
+│       ├── path_output.png
+│       ├── terminal_output.png
+│       └── main_code.png
+│
 ├── main.py
 ├── requirements.txt
 └── README.md
-
+```
 
 ▶️ How to Run
 Run the following commands inside the project folder:
 
-pip install -r requirements.txt
+pip install -r requirements.txt  
 python main.py
 
 
