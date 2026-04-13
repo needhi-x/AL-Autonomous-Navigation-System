@@ -1,17 +1,19 @@
 🚗 AI-Based Autonomous Navigation System
+
 📌 Project Overview
+
 This project simulates an AI-based autonomous navigation system that can find the shortest path from a start point to a goal while avoiding obstacles using the A* algorithm.
 
 🎯 Problem Statement
-Autonomous systems like self-driving cars and robots need to navigate safely in environments with obstacles.
+Autonomous systems like self-driving cars and robots need to navigate safely in environments with obstacles.  
 This project demonstrates how path planning algorithms can solve this problem.
 
-🧠 Features
-A* Path Planning Algorithm
-Obstacle Avoidance
-Grid-based Simulation
-Visualization of navigation path
-Step-by-step agent movement
+🧠 Features  
+A* Path Planning Algorithm  
+Obstacle Avoidance  
+Grid-based Simulation  
+Visualization of navigation path  
+Step-by-step agent movement  
 
 🛠 Tech Stack
 Python
