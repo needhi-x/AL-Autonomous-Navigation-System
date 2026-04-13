@@ -55,15 +55,17 @@ python main.py
 ![Code](outputs/images/main_code.png)
 
 🚀 Future Improvements
-Real-time camera input
-Integration with simulation tools like CARLA
-Deep learning-based object detection
-Multi-agent navigation
+
+Real-time camera input  
+Integration with simulation tools like CARLA  
+Deep learning-based object detection  
+Multi-agent navigation  
 
 🎓 Learning Outcomes
-Understanding A* algorithm
-Working with grid-based simulations
-Visualization using Matplotlib
+
+Understanding A* algorithm  
+Working with grid-based simulations  
+Visualization using Matplotlib  
 Basic robotics navigation logic
 
 👩‍💻 Author
