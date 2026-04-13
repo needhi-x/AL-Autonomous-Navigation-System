@@ -16,10 +16,11 @@ Visualization of navigation path
 Step-by-step agent movement  
 
 🛠 Tech Stack
-Python
-NumPy
-Matplotlib
-OpenCV
+
+Python  
+NumPy  
+Matplotlib  
+OpenCV  
 
 ## 🏗 Project Structure
 
@@ -78,6 +79,6 @@ Working with grid-based simulations
 Visualization using Matplotlib  
 Basic robotics navigation logic
 
-👩‍💻 Author
+👩‍💻 Author  
 Nidhi Apotikar
 
